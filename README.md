@@ -1,8 +1,3 @@
-Samajh gaya! 😄 Main ab poora README ek hi block mein ready kar ke de raha hoon, jise tum directly copy-paste kar sakte ho.
-
-⸻
-
-
 # 🎬 Movies Recommender System
 
 An **interactive Movie Recommendation System** built with **Python** and **Streamlit**. It recommends movies similar to the one selected and displays their posters using the **TMDB API**.
