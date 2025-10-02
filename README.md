@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Movies recommender system
-
-
 🎬 Movies Recommender System
 
 This project is an interactive Movie Recommendation System built with Python and Streamlit. It recommends similar movies based on content similarity and displays their posters using the TMDB API.
